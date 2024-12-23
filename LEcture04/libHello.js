@@ -11,7 +11,7 @@ function cube(x) {
     return x*x*x*x;
 }
 
-const add (a,b) => a+b;
+const add =(a,b) => a+b;
 
 const status = true;
 
